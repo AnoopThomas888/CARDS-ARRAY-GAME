@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+#container{
+    margin-left: 5px;
+
+}
+#container2{
+    margin-left: 5px;
+
+}
+#submitbutton{
+    background-color: blueviolet;
+}
+#submitbutton:hover{
+    background-color: rgb(13, 8, 143);
+}
+#playButton{
+    background-color:  rgb(236, 239, 56);
+}
+#playButton:hover{
+    background-color:  rgb(239, 56, 56);
+}
